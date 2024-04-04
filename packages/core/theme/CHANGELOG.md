@@ -1,5 +1,11 @@
 # @nextui-org/theme
 
+## 2.1.18
+
+### Patch Changes
+
+- [#2392](https://github.com/nextui-org/nextui/pull/2392) [`37bed2368`](https://github.com/nextui-org/nextui/commit/37bed2368e2414a6eb3cf8744896a18ca7299a91) Thanks [@wingkwong](https://github.com/wingkwong)! - fixed incorrect RTL behaviour in toggle (#2266)
+
 ## 2.1.17
 
 ### Patch Changes
